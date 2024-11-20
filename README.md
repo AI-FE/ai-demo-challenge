@@ -1,6 +1,6 @@
 # AI生成Demo挑战赛
 
-由[前端 + AI 转型探索营](https://appjiz2zqrn2142.h5.xiaoeknow.com/p/course/column/p_673d5557e4b023c058a79b7d)发起，每周根据[选题](https://github.com/BetaSu/ai-demo-challenge/issues)使用[v0](https://v0.dev/)生成Demo
+由[前端 + AI 转型探索营](https://appjiz2zqrn2142.h5.xiaoeknow.com/p/course/column/p_673d5557e4b023c058a79b7d)发起，每周根据[选题](https://github.com/BetaSu/ai-demo-challenge/issues)使用[v0](https://v0.dev/)生成Demo。再评选出每周最佳Demo，颁发奖品
 
 ## 活动安排
 
