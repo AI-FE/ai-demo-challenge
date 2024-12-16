@@ -27,4 +27,7 @@
 
 [302.AI](https://302.ai/)是一个按需付费的一站式AI应用平台，开放平台，开源生态
 
-[![645-96-×2](https://github.com/user-attachments/assets/9d416233-bd01-44a9-ac94-91097049aebd)](https://302.ai/)
+[![github-1500×400](https://github.com/user-attachments/assets/af555b88-5875-4542-ae6e-c50992fe3944)](https://302.ai/)
+
+
+
